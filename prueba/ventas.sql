@@ -8,7 +8,7 @@
 -- CREATE DATABASE IF NOT EXISTS Sistema_Ventas;
 
 -- Usar la base de datos
-USE Sistema_Ventas;  -- Cambiar por el nombre de la base de datos que se esté utilizando
+USE railway;  -- Cambiar por el nombre de la base de datos que se esté utilizando
 
 -- Eliminar procedimientos almacenados si existen
 DROP PROCEDURE IF EXISTS sp_ingven;
