@@ -1,10 +1,10 @@
 const mysql = require("mysql2/promise");
 
 const pool = mysql.createPool({
-  host: "localhost",
-  user: "root",
-  password: "senati",
-  database: "sistema_ventas",
+  host: "b3jwrdl8rjujdh8rhwic-mysql.services.clever-cloud.com",
+  user: "uw5idahfad4a4kee",
+  password: "rE4SMTeq5QyTKBXg7um2",
+  database: "b3jwrdl8rjujdh8rhwic",
   port: 3306,
   waitForConnections: true,
   connectionLimit: 10,
